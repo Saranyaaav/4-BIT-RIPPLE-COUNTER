@@ -36,7 +36,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **PROGRAM**
 
- Developed by: SARANYA V RegisterNumber: 212223040188
+ Developed by: SARANYA V , RegisterNumber: 212223040188
 
 ```
 module counter(out,clk,rst);
@@ -56,6 +56,7 @@ endmodule
 ![Screenshot 2024-11-22 181038](https://github.com/user-attachments/assets/160130cd-1368-4bc2-8f07-0aa3f87cddc9)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+![Screenshot 2024-11-22 182714](https://github.com/user-attachments/assets/bc2ae079-0d72-4352-b0c2-5230e36fbad5)
 
 **RESULTS**
 Thus 4-bit-ripple-counter has been executed successfully.
