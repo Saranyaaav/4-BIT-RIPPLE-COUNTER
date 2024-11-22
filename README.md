@@ -59,4 +59,5 @@ endmodule
 ![Screenshot 2024-11-22 182714](https://github.com/user-attachments/assets/bc2ae079-0d72-4352-b0c2-5230e36fbad5)
 
 **RESULTS**
+
 Thus 4-bit-ripple-counter has been executed successfully.
